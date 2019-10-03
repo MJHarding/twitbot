@@ -1,0 +1,26 @@
+{
+  "name": "twitbot",
+  "version": "1.0.0",
+  "description": "A bot for twitter that reminds users to do things and interacts with hashtags and trending",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MJHarding/twitbot.git"
+  },
+  "keywords": [
+    "twitter",
+    "bot"
+  ],
+  "author": "Matthew Harding",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MJHarding/twitbot/issues"
+  },
+  "homepage": "https://github.com/MJHarding/twitbot#readme",
+  "dependencies": {
+    "twit": "^2.2.11"
+  }
+}
