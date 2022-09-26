@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/MJHarding/twitbot#readme",
   "dependencies": {
-    "pm2": "^3.5.1",
+    "pm2": "^5.2.0",
     "twit": "^2.2.11"
   }
 }
